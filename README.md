@@ -17,4 +17,4 @@ License
 
 Absolutely Open Source
 
-![Link to repo on Github](https://github.com/AriSalkow/myrepo)
+[Link to repo on Github](https://github.com/AriSalkow/myrepo)
